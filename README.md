@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Saxena</h1>
 <h3 align="center">A Computer Science Engineer and Frontend Developer</h3>
-<img align="right" alt="image" width="450"  src="https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksaxena060802&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksaxena060802" /> </p>
 
 - 🔭 I’m currently working on **React and DSA**
